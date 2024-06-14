@@ -2,10 +2,6 @@
 
 A minimal black 
 
-## Getting Started
-<code>cp /etc/xdg/waybar/* .config/waybar/</code><br>
-<code>vim .config/waybar/config</code><br>
-<code>vim .config/waybar/style.css</code><br>
 
 ## Order 
 - Speaker > Mic > Wifi > Brightness > CPU > Memory > Battery > Time (12 hour formate)
