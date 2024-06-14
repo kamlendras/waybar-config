@@ -1,4 +1,4 @@
-##waybar-config
+## waybar-config
 
 A minimal black 
 
